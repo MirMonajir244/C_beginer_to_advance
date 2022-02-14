@@ -1,0 +1,6 @@
+Macro is a name which is given to a value or to a piece of code/block in a program. Instead of using the value, we can use macro which will replace the value in a program.
+
+The reason for using macro is, consider below example.
+You are using a person’s age as 50 in many places in your program. If you use direct value in all the places in your program, it is very difficult to change the age value in future if you want to change it to 60. If you use macro in your program, it is very simple to replace the value and we can change in only one place which will change the value in all places in your program.
+
+
